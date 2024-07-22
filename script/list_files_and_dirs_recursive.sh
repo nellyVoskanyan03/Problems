@@ -6,7 +6,6 @@ read -p "Directory name: " dir
 if [ ! -d "$dir" ]
 then
     echo "No such directory '$dir'."
-    exit 1
 fi
 
 # Find all files in the directory and give only file names
