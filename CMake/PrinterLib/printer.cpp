@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
 
-void print(std::string& const message) {
+void print(const std::string& message) {
 	std::cout << message << std::endl;
 }

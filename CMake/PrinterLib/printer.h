@@ -2,5 +2,5 @@
 #define PRINTER_LIB
 #include <string>
 
-void print(std::string& const message);
+void print(const std::string& message);
 #endif
