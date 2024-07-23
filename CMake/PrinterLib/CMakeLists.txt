@@ -1,0 +1,1 @@
+add_library(PrinterLib printer.cpp)
