@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Check if argumet is given
 if [ ! -n "$1" ] || [ ! -f "$1" ]
 then 

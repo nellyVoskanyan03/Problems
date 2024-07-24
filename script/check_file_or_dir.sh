@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Read file or directory name
 read -p "File or directory name: " name
 

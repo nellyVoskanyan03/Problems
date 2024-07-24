@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Read teh number
 read -p "Number: " num
 

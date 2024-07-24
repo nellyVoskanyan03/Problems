@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Read the directory name
 read -p "Directory name: " dir
 
