@@ -16,4 +16,7 @@ To create and run the image run this commands from Problems folder
 docker build -t problems -f Docker/Dockerfile .
 docker run -it --rm problems
 ```
-   
+You can run scripts in container as well. Use the following command to start the container and open a Bash shell
+```sh
+docker run -it --rm problems /bin/bash
+```
