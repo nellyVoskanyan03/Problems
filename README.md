@@ -3,10 +3,10 @@
  There are scripts to
 1. print all file names recursively in given directory - `list_files_recursive.sh`
 2. tell if given path is file or directory - `check_file_or_dir.sh`
-3. reverse given number - `reverce-number.sh`
+3. reverse given number - `reverse_number.sh`
 4. count the number of lines in given file - `line_count.sh`
 ## CMake project
-Simple project that include 
+Simple project that includes
 - `PrinterLib` - library that prints given message
 - main function which waits for input and prints it using `PrinterLib`'s print function
 ## Docker
